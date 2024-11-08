@@ -58,7 +58,7 @@ table {
     border-collapse: collapse;
     margin-top: 20px;
     font-family: Arial, sans-serif;
-    background-color: #1B1B2F; /* Nền chính của bảng */
+    background-color: #167fa8; /* Nền chính của bảng */
     color: white; /* Màu chữ tổng thể */
 }
 
@@ -108,6 +108,6 @@ td a {
 }
 
 td a:hover {
-    color: #F07B3F; /* Đổi màu cam khi hover */
+    color: #3f9af0; /* Đổi màu cam khi hover */
     text-decoration: underline;
 }
